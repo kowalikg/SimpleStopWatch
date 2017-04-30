@@ -1,6 +1,9 @@
 <resources>
-    <string name="app_name">SysOpySymulator</string>
+    <string name="app_name">TimerPack</string>
     <string name="start">Start</string>
     <string name="stop">Stop</string>
     <string name="restet">Reset</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

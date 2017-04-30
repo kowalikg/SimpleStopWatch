@@ -1,4 +1,4 @@
-package milqaa.student.agh.edu.pl.sysopysymulator;
+package milqaa.student.agh.edu.pl.TimerPack;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

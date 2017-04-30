@@ -1,4 +1,4 @@
-package milqaa.student.agh.edu.pl.sysopysymulator;
+package milqaa.student.agh.edu.pl.TimerPack;
 
 import org.junit.Test;
 
